@@ -1,33 +1,31 @@
-# Hi, I'm Santino
+# Santino Uma
 
-I'm a Computer Engineering student based in Argentina, focused on building reliable, well-designed software for real-world problems.
+**Computer Engineering Student · Independent Software Developer**
 
-My interests include custom web applications, software architecture, application security, UI/UX and AI-assisted software engineering.
+I'm an advanced Computer Engineering student at [Universidad Nacional del Litoral](https://www.unl.edu.ar/), Argentina, starting my independent software development practice. My focus is custom web applications, internal tools and software shaped around business needs.
 
-### What I'm working on
+## Current work
 
-- Building a business management application for a real-world small business.
-- Developing a reusable engineering workflow for software projects assisted by AI.
-- Improving my skills in full-stack development, software design, testing and security.
+I'm developing my first real-world business application: a management tool for a small business. Alongside it, I'm refining a reusable engineering workflow for software design, testing and review.
 
-### How I approach software development
+My long-term goal is to grow this practice into a software engineering studio working with businesses internationally.
 
-I believe good software starts with understanding the problem.
+## Engineering approach
 
-My approach emphasizes:
+I start by understanding the problem and the people who will use the software. My priorities are:
 
-- Understanding requirements before implementation.
-- Choosing architectures appropriate to the project.
-- Building intuitive, accessible user interfaces.
-- Considering security and maintainability from the beginning.
-- Validating changes through testing and code review.
+- Clear requirements before implementation.
+- Architecture that fits the problem and remains maintainable as needs change.
+- Application security considered from the start.
+- Intuitive, accessible interfaces informed by UI/UX design.
+- Testing and code review to validate changes.
 
-I use AI-assisted development tools to improve productivity while maintaining responsibility for technical decisions and software quality.
+AI-assisted engineering supports my workflow. I remain responsible for technical decisions, code review and validation.
 
-### Technologies I'm working with
+## Tools in use
 
 TypeScript · React · PostgreSQL · Supabase · Git · GitHub · Playwright
 
-### Current focus
+## Training
 
-Building real products, strengthening my software engineering foundations and developing an efficient, quality-focused approach to independent software development.
+Completed software development training delivered by Folder IT professionals in October 2025.
